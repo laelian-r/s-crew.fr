@@ -8,3 +8,22 @@ body {
   font-family: 'Poppins';
   height: 100dvh;
 }
+
+main {
+  padding: 0 10%;
+}
+
+section {
+  display: flex;
+  align-items: center;
+  margin: 2rem 0;
+  flex-wrap: wrap;
+}
+
+article {
+  margin: 0 0.3rem;
+}
+
+img {
+  height: 300px;
+}
