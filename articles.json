@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Blouson",
+      "price": "50,00",
+      "category": "Blouson",
+      "image": "https://s-crew.fr/cdn/shop/products/ENSEMBLEHAUTcopy.jpg?v=1662122114&width=360",
+      "stock": true
+    },
+    {
+      "id": 2,
+      "name": "Casquette",
+      "price": "30,00",
+      "category": "Casquette",
+      "image": "https://s-crew.fr/cdn/shop/products/CAP.jpg?v=1662126256&width=360",
+      "stock": false
+    },
+    {
+      "id": 3,
+      "name": "Crew",
+      "price": "40,00",
+      "category": "Crew",
+      "image": "https://s-crew.fr/cdn/shop/products/CREWcopy.jpg?v=1657216260&width=360",
+      "stock": false
+    },
+    {
+      "id": 4,
+      "name": "Hoodie",
+      "price": "55,00",
+      "category": "Hoodie",
+      "image": "https://s-crew.fr/cdn/shop/products/HOODIEFRONTcopy.jpg?v=1657216330&width=360",
+      "stock": true
+    },
+    {
+      "id": 5,
+      "name": "T-shirt blanc",
+      "price": "30,00",
+      "category": "T-shirt blanc",
+      "image": "https://s-crew.fr/cdn/shop/products/TEEWHITEcopy.jpg?v=1657216394&width=360",
+      "stock": false
+    },
+    {
+      "id": 6,
+      "name": "T-shirt noir",
+      "price": "30,00",
+      "category": "T-shirt noir",
+      "image": "https://s-crew.fr/cdn/shop/products/TEEBLACKcopy.jpg?v=1657216433&width=360",
+      "stock": true
+    }
+]
+  
